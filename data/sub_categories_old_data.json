@@ -1,0 +1,185 @@
+[{
+  "_id": {
+    "$oid": "61ae1353d2431e7b14199abb"
+  },
+  "cat_id": "61ae133fd2431e7b14199ab4",
+  "name": "T-Shirts",
+  "img": "",
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "isActive": true
+},{
+  "_id": {
+    "$oid": "61ae1353d2431e7b14199abc"
+  },
+  "cat_id": "61ae133fd2431e7b14199ab4",
+  "name": "Formal Shirts",
+  "img": "",
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "isActive": true
+},{
+  "_id": {
+    "$oid": "61ae1353d2431e7b14199abd"
+  },
+  "cat_id": "61ae133fd2431e7b14199ab4",
+  "name": "Jeans",
+  "img": "",
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "isActive": true
+},{
+  "_id": {
+    "$oid": "61ae1353d2431e7b14199abe"
+  },
+  "cat_id": "61ae133fd2431e7b14199ab5",
+  "name": "Kurtas & Suits",
+  "img": "",
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "isActive": true
+},{
+  "_id": {
+    "$oid": "61ae1353d2431e7b14199abf"
+  },
+  "cat_id": "61ae133fd2431e7b14199ab5",
+  "name": "Dupattas & Shawls",
+  "img": "",
+  "size": [
+    "28",
+    "30",
+    "32",
+    "34",
+    "36"
+  ],
+  "isActive": true
+},{
+  "_id": {
+    "$oid": "61ae1353d2431e7b14199ac0"
+  },
+  "cat_id": "61ae133fd2431e7b14199ab5",
+  "name": "Tops",
+  "img": "",
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "isActive": true
+},{
+  "_id": {
+    "$oid": "61ae1353d2431e7b14199ac1"
+  },
+  "cat_id": "61ae133fd2431e7b14199ab5",
+  "name": "Jeans",
+  "img": "",
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "isActive": true
+},{
+  "_id": {
+    "$oid": "61ae1353d2431e7b14199ac2"
+  },
+  "cat_id": "61ae133fd2431e7b14199ab6",
+  "name": "Dry Dog Food",
+  "img": "",
+  "size": [
+    "Small",
+    "Medium",
+    "Large"
+  ],
+  "isActive": true
+},{
+  "_id": {
+    "$oid": "61ae1353d2431e7b14199ac3"
+  },
+  "cat_id": "61ae133fd2431e7b14199ab6",
+  "name": "Fresh Dog Food",
+  "img": "",
+  "size": [
+    "Medium",
+    "Large"
+  ],
+  "isActive": true
+},{
+  "_id": {
+    "$oid": "61ae1353d2431e7b14199ac4"
+  },
+  "cat_id": "61ae133fd2431e7b14199ab7",
+  "name": "Ethnic Wear",
+  "img": "",
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "isActive": true
+},{
+  "_id": {
+    "$oid": "61ae1353d2431e7b14199ac5"
+  },
+  "cat_id": "61ae133fd2431e7b14199ab7",
+  "name": "Party Wear",
+  "img": "",
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "isActive": true
+},{
+  "_id": {
+    "$oid": "61ae1353d2431e7b14199ac6"
+  },
+  "cat_id": "61ae133fd2431e7b14199ab8",
+  "name": "Bath Towels",
+  "img": "",
+  "size": [
+    "2 meter",
+    "2.5 meter"
+  ],
+  "isActive": true
+},{
+  "_id": {
+    "$oid": "61ae1353d2431e7b14199ac7"
+  },
+  "cat_id": "61ae133fd2431e7b14199ab8",
+  "name": "Floor Lamps",
+  "img": "",
+  "size": [
+    "9vw",
+    "12vw",
+    "15vw",
+    "20vw"
+  ],
+  "isActive": true
+}]

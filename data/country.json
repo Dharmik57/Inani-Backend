@@ -1,0 +1,3001 @@
+[{
+  "_id": {
+    "$oid": "612f99c76151000049000b72"
+  },
+  "country_id": 1,
+  "name": "Afghanistan",
+  "sortname": "AF",
+  "tele_code": "93",
+  "currency": "AFN",
+  "currency_symbol": "؋",
+  "region": "Asia",
+  "subregion": "Southern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b73"
+  },
+  "country_id": 2,
+  "name": "Aland Islands",
+  "sortname": "AX",
+  "tele_code": "+358-18",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Northern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b74"
+  },
+  "country_id": 3,
+  "name": "Albania",
+  "sortname": "AL",
+  "tele_code": "355",
+  "currency": "ALL",
+  "currency_symbol": "Lek",
+  "region": "Europe",
+  "subregion": "Southern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b75"
+  },
+  "country_id": 4,
+  "name": "Algeria",
+  "sortname": "DZ",
+  "tele_code": "213",
+  "currency": "DZD",
+  "currency_symbol": "دج",
+  "region": "Africa",
+  "subregion": "Northern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b76"
+  },
+  "country_id": 5,
+  "name": "American Samoa",
+  "sortname": "AS",
+  "tele_code": "+1-684",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "region": "Oceania",
+  "subregion": "Polynesia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b77"
+  },
+  "country_id": 6,
+  "name": "Andorra",
+  "sortname": "AD",
+  "tele_code": "376",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Southern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b78"
+  },
+  "country_id": 7,
+  "name": "Angola",
+  "sortname": "AO",
+  "tele_code": "244",
+  "currency": "AOA",
+  "currency_symbol": "Kz",
+  "region": "Africa",
+  "subregion": "Middle Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b79"
+  },
+  "country_id": 8,
+  "name": "Anguilla",
+  "sortname": "AI",
+  "tele_code": "+1-264",
+  "currency": "XCD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b7a"
+  },
+  "country_id": 9,
+  "name": "Antarctica",
+  "sortname": "AQ",
+  "tele_code": "672",
+  "currency": "AAD",
+  "currency_symbol": "$",
+  "region": "Polar",
+  "subregion": ""
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b7b"
+  },
+  "country_id": 10,
+  "name": "Antigua And Barbuda",
+  "sortname": "AG",
+  "tele_code": "+1-268",
+  "currency": "XCD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b7c"
+  },
+  "country_id": 11,
+  "name": "Argentina",
+  "sortname": "AR",
+  "tele_code": "54",
+  "currency": "ARS",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "South America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b7d"
+  },
+  "country_id": 12,
+  "name": "Armenia",
+  "sortname": "AM",
+  "tele_code": "374",
+  "currency": "AMD",
+  "currency_symbol": "֏",
+  "region": "Asia",
+  "subregion": "Western Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b7e"
+  },
+  "country_id": 13,
+  "name": "Aruba",
+  "sortname": "AW",
+  "tele_code": "297",
+  "currency": "AWG",
+  "currency_symbol": "ƒ",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b7f"
+  },
+  "country_id": 14,
+  "name": "Australia",
+  "sortname": "AU",
+  "tele_code": "61",
+  "currency": "AUD",
+  "currency_symbol": "$",
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b80"
+  },
+  "country_id": 15,
+  "name": "Austria",
+  "sortname": "AT",
+  "tele_code": "43",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Western Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b81"
+  },
+  "country_id": 16,
+  "name": "Azerbaijan",
+  "sortname": "AZ",
+  "tele_code": "994",
+  "currency": "AZN",
+  "currency_symbol": "m",
+  "region": "Asia",
+  "subregion": "Western Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b82"
+  },
+  "country_id": 17,
+  "name": "Bahamas The",
+  "sortname": "BS",
+  "tele_code": "+1-242",
+  "currency": "BSD",
+  "currency_symbol": "B$",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b83"
+  },
+  "country_id": 18,
+  "name": "Bahrain",
+  "sortname": "BH",
+  "tele_code": "973",
+  "currency": "BHD",
+  "currency_symbol": ".د.ب",
+  "region": "Asia",
+  "subregion": "Western Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b84"
+  },
+  "country_id": 19,
+  "name": "Bangladesh",
+  "sortname": "BD",
+  "tele_code": "880",
+  "currency": "BDT",
+  "currency_symbol": "৳",
+  "region": "Asia",
+  "subregion": "Southern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b85"
+  },
+  "country_id": 20,
+  "name": "Barbados",
+  "sortname": "BB",
+  "tele_code": "+1-246",
+  "currency": "BBD",
+  "currency_symbol": "Bds$",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b86"
+  },
+  "country_id": 21,
+  "name": "Belarus",
+  "sortname": "BY",
+  "tele_code": "375",
+  "currency": "BYN",
+  "currency_symbol": "Br",
+  "region": "Europe",
+  "subregion": "Eastern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b87"
+  },
+  "country_id": 22,
+  "name": "Belgium",
+  "sortname": "BE",
+  "tele_code": "32",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Western Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b88"
+  },
+  "country_id": 23,
+  "name": "Belize",
+  "sortname": "BZ",
+  "tele_code": "501",
+  "currency": "BZD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Central America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b89"
+  },
+  "country_id": 24,
+  "name": "Benin",
+  "sortname": "BJ",
+  "tele_code": "229",
+  "currency": "XOF",
+  "currency_symbol": "CFA",
+  "region": "Africa",
+  "subregion": "Western Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b8a"
+  },
+  "country_id": 25,
+  "name": "Bermuda",
+  "sortname": "BM",
+  "tele_code": "+1-441",
+  "currency": "BMD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Northern America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b8b"
+  },
+  "country_id": 26,
+  "name": "Bhutan",
+  "sortname": "BT",
+  "tele_code": "975",
+  "currency": "BTN",
+  "currency_symbol": "Nu.",
+  "region": "Asia",
+  "subregion": "Southern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b8c"
+  },
+  "country_id": 27,
+  "name": "Bolivia",
+  "sortname": "BO",
+  "tele_code": "591",
+  "currency": "BOB",
+  "currency_symbol": "Bs.",
+  "region": "Americas",
+  "subregion": "South America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b8d"
+  },
+  "country_id": 155,
+  "name": "Bonaire, Sint Eustatius and Saba",
+  "sortname": "BQ",
+  "tele_code": "599",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b8e"
+  },
+  "country_id": 28,
+  "name": "Bosnia and Herzegovina",
+  "sortname": "BA",
+  "tele_code": "387",
+  "currency": "BAM",
+  "currency_symbol": "KM",
+  "region": "Europe",
+  "subregion": "Southern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b8f"
+  },
+  "country_id": 29,
+  "name": "Botswana",
+  "sortname": "BW",
+  "tele_code": "267",
+  "currency": "BWP",
+  "currency_symbol": "P",
+  "region": "Africa",
+  "subregion": "Southern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b90"
+  },
+  "country_id": 30,
+  "name": "Bouvet Island",
+  "sortname": "BV",
+  "tele_code": "0055",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "region": "",
+  "subregion": ""
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b91"
+  },
+  "country_id": 31,
+  "name": "Brazil",
+  "sortname": "BR",
+  "tele_code": "55",
+  "currency": "BRL",
+  "currency_symbol": "R$",
+  "region": "Americas",
+  "subregion": "South America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b92"
+  },
+  "country_id": 32,
+  "name": "British Indian Ocean Territory",
+  "sortname": "IO",
+  "tele_code": "246",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "region": "Africa",
+  "subregion": "Eastern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b93"
+  },
+  "country_id": 33,
+  "name": "Brunei",
+  "sortname": "BN",
+  "tele_code": "673",
+  "currency": "BND",
+  "currency_symbol": "B$",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b94"
+  },
+  "country_id": 34,
+  "name": "Bulgaria",
+  "sortname": "BG",
+  "tele_code": "359",
+  "currency": "BGN",
+  "currency_symbol": "Лв.",
+  "region": "Europe",
+  "subregion": "Eastern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b95"
+  },
+  "country_id": 35,
+  "name": "Burkina Faso",
+  "sortname": "BF",
+  "tele_code": "226",
+  "currency": "XOF",
+  "currency_symbol": "CFA",
+  "region": "Africa",
+  "subregion": "Western Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b96"
+  },
+  "country_id": 36,
+  "name": "Burundi",
+  "sortname": "BI",
+  "tele_code": "257",
+  "currency": "BIF",
+  "currency_symbol": "FBu",
+  "region": "Africa",
+  "subregion": "Eastern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b97"
+  },
+  "country_id": 37,
+  "name": "Cambodia",
+  "sortname": "KH",
+  "tele_code": "855",
+  "currency": "KHR",
+  "currency_symbol": "KHR",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b98"
+  },
+  "country_id": 38,
+  "name": "Cameroon",
+  "sortname": "CM",
+  "tele_code": "237",
+  "currency": "XAF",
+  "currency_symbol": "FCFA",
+  "region": "Africa",
+  "subregion": "Middle Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b99"
+  },
+  "country_id": 39,
+  "name": "Canada",
+  "sortname": "CA",
+  "tele_code": "1",
+  "currency": "CAD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Northern America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b9a"
+  },
+  "country_id": 40,
+  "name": "Cape Verde",
+  "sortname": "CV",
+  "tele_code": "238",
+  "currency": "CVE",
+  "currency_symbol": "$",
+  "region": "Africa",
+  "subregion": "Western Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b9b"
+  },
+  "country_id": 41,
+  "name": "Cayman Islands",
+  "sortname": "KY",
+  "tele_code": "+1-345",
+  "currency": "KYD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b9c"
+  },
+  "country_id": 42,
+  "name": "Central African Republic",
+  "sortname": "CF",
+  "tele_code": "236",
+  "currency": "XAF",
+  "currency_symbol": "FCFA",
+  "region": "Africa",
+  "subregion": "Middle Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b9d"
+  },
+  "country_id": 43,
+  "name": "Chad",
+  "sortname": "TD",
+  "tele_code": "235",
+  "currency": "XAF",
+  "currency_symbol": "FCFA",
+  "region": "Africa",
+  "subregion": "Middle Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b9e"
+  },
+  "country_id": 44,
+  "name": "Chile",
+  "sortname": "CL",
+  "tele_code": "56",
+  "currency": "CLP",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "South America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000b9f"
+  },
+  "country_id": 45,
+  "name": "China",
+  "sortname": "CN",
+  "tele_code": "86",
+  "currency": "CNY",
+  "currency_symbol": "¥",
+  "region": "Asia",
+  "subregion": "Eastern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000ba0"
+  },
+  "country_id": 46,
+  "name": "Christmas Island",
+  "sortname": "CX",
+  "tele_code": "61",
+  "currency": "AUD",
+  "currency_symbol": "$",
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000ba1"
+  },
+  "country_id": 47,
+  "name": "Cocos (Keeling) Islands",
+  "sortname": "CC",
+  "tele_code": "61",
+  "currency": "AUD",
+  "currency_symbol": "$",
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000ba2"
+  },
+  "country_id": 48,
+  "name": "Colombia",
+  "sortname": "CO",
+  "tele_code": "57",
+  "currency": "COP",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "South America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000ba3"
+  },
+  "country_id": 49,
+  "name": "Comoros",
+  "sortname": "KM",
+  "tele_code": "269",
+  "currency": "KMF",
+  "currency_symbol": "CF",
+  "region": "Africa",
+  "subregion": "Eastern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000ba4"
+  },
+  "country_id": 50,
+  "name": "Congo",
+  "sortname": "CG",
+  "tele_code": "242",
+  "currency": "XAF",
+  "currency_symbol": "FC",
+  "region": "Africa",
+  "subregion": "Middle Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000ba5"
+  },
+  "country_id": 52,
+  "name": "Cook Islands",
+  "sortname": "CK",
+  "tele_code": "682",
+  "currency": "NZD",
+  "currency_symbol": "$",
+  "region": "Oceania",
+  "subregion": "Polynesia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000ba6"
+  },
+  "country_id": 53,
+  "name": "Costa Rica",
+  "sortname": "CR",
+  "tele_code": "506",
+  "currency": "CRC",
+  "currency_symbol": "₡",
+  "region": "Americas",
+  "subregion": "Central America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000ba7"
+  },
+  "country_id": 54,
+  "name": "Cote D'Ivoire (Ivory Coast)",
+  "sortname": "CI",
+  "tele_code": "225",
+  "currency": "XOF",
+  "currency_symbol": "CFA",
+  "region": "Africa",
+  "subregion": "Western Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000ba8"
+  },
+  "country_id": 55,
+  "name": "Croatia",
+  "sortname": "HR",
+  "tele_code": "385",
+  "currency": "HRK",
+  "currency_symbol": "kn",
+  "region": "Europe",
+  "subregion": "Southern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000ba9"
+  },
+  "country_id": 56,
+  "name": "Cuba",
+  "sortname": "CU",
+  "tele_code": "53",
+  "currency": "CUP",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000baa"
+  },
+  "country_id": 249,
+  "name": "Curaçao",
+  "sortname": "CW",
+  "tele_code": "599",
+  "currency": "ANG",
+  "currency_symbol": "ƒ",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bab"
+  },
+  "country_id": 57,
+  "name": "Cyprus",
+  "sortname": "CY",
+  "tele_code": "357",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Southern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bac"
+  },
+  "country_id": 58,
+  "name": "Czech Republic",
+  "sortname": "CZ",
+  "tele_code": "420",
+  "currency": "CZK",
+  "currency_symbol": "Kč",
+  "region": "Europe",
+  "subregion": "Eastern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bad"
+  },
+  "country_id": 51,
+  "name": "Democratic Republic of the Congo",
+  "sortname": "CD",
+  "tele_code": "243",
+  "currency": "CDF",
+  "currency_symbol": "FC",
+  "region": "Africa",
+  "subregion": "Middle Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bae"
+  },
+  "country_id": 59,
+  "name": "Denmark",
+  "sortname": "DK",
+  "tele_code": "45",
+  "currency": "DKK",
+  "currency_symbol": "Kr.",
+  "region": "Europe",
+  "subregion": "Northern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000baf"
+  },
+  "country_id": 60,
+  "name": "Djibouti",
+  "sortname": "DJ",
+  "tele_code": "253",
+  "currency": "DJF",
+  "currency_symbol": "Fdj",
+  "region": "Africa",
+  "subregion": "Eastern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bb0"
+  },
+  "country_id": 61,
+  "name": "Dominica",
+  "sortname": "DM",
+  "tele_code": "+1-767",
+  "currency": "XCD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bb1"
+  },
+  "country_id": 62,
+  "name": "Dominican Republic",
+  "sortname": "DO",
+  "tele_code": "+1-809 and 1-829",
+  "currency": "DOP",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bb2"
+  },
+  "country_id": 63,
+  "name": "East Timor",
+  "sortname": "TL",
+  "tele_code": "670",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bb3"
+  },
+  "country_id": 64,
+  "name": "Ecuador",
+  "sortname": "EC",
+  "tele_code": "593",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "South America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bb4"
+  },
+  "country_id": 65,
+  "name": "Egypt",
+  "sortname": "EG",
+  "tele_code": "20",
+  "currency": "EGP",
+  "currency_symbol": "ج.م",
+  "region": "Africa",
+  "subregion": "Northern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bb5"
+  },
+  "country_id": 66,
+  "name": "El Salvador",
+  "sortname": "SV",
+  "tele_code": "503",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Central America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bb6"
+  },
+  "country_id": 67,
+  "name": "Equatorial Guinea",
+  "sortname": "GQ",
+  "tele_code": "240",
+  "currency": "XAF",
+  "currency_symbol": "FCFA",
+  "region": "Africa",
+  "subregion": "Middle Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bb7"
+  },
+  "country_id": 68,
+  "name": "Eritrea",
+  "sortname": "ER",
+  "tele_code": "291",
+  "currency": "ERN",
+  "currency_symbol": "Nfk",
+  "region": "Africa",
+  "subregion": "Eastern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bb8"
+  },
+  "country_id": 69,
+  "name": "Estonia",
+  "sortname": "EE",
+  "tele_code": "372",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Northern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bb9"
+  },
+  "country_id": 70,
+  "name": "Ethiopia",
+  "sortname": "ET",
+  "tele_code": "251",
+  "currency": "ETB",
+  "currency_symbol": "Nkf",
+  "region": "Africa",
+  "subregion": "Eastern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bba"
+  },
+  "country_id": 71,
+  "name": "Falkland Islands",
+  "sortname": "FK",
+  "tele_code": "500",
+  "currency": "FKP",
+  "currency_symbol": "£",
+  "region": "Americas",
+  "subregion": "South America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bbb"
+  },
+  "country_id": 72,
+  "name": "Faroe Islands",
+  "sortname": "FO",
+  "tele_code": "298",
+  "currency": "DKK",
+  "currency_symbol": "Kr.",
+  "region": "Europe",
+  "subregion": "Northern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bbc"
+  },
+  "country_id": 73,
+  "name": "Fiji Islands",
+  "sortname": "FJ",
+  "tele_code": "679",
+  "currency": "FJD",
+  "currency_symbol": "FJ$",
+  "region": "Oceania",
+  "subregion": "Melanesia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bbd"
+  },
+  "country_id": 74,
+  "name": "Finland",
+  "sortname": "FI",
+  "tele_code": "358",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Northern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bbe"
+  },
+  "country_id": 75,
+  "name": "France",
+  "sortname": "FR",
+  "tele_code": "33",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Western Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bbf"
+  },
+  "country_id": 76,
+  "name": "French Guiana",
+  "sortname": "GF",
+  "tele_code": "594",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Americas",
+  "subregion": "South America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bc0"
+  },
+  "country_id": 77,
+  "name": "French Polynesia",
+  "sortname": "PF",
+  "tele_code": "689",
+  "currency": "XPF",
+  "currency_symbol": "₣",
+  "region": "Oceania",
+  "subregion": "Polynesia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bc1"
+  },
+  "country_id": 78,
+  "name": "French Southern Territories",
+  "sortname": "TF",
+  "tele_code": "262",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Africa",
+  "subregion": "Southern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bc2"
+  },
+  "country_id": 79,
+  "name": "Gabon",
+  "sortname": "GA",
+  "tele_code": "241",
+  "currency": "XAF",
+  "currency_symbol": "FCFA",
+  "region": "Africa",
+  "subregion": "Middle Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bc3"
+  },
+  "country_id": 80,
+  "name": "Gambia The",
+  "sortname": "GM",
+  "tele_code": "220",
+  "currency": "GMD",
+  "currency_symbol": "D",
+  "region": "Africa",
+  "subregion": "Western Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bc4"
+  },
+  "country_id": 81,
+  "name": "Georgia",
+  "sortname": "GE",
+  "tele_code": "995",
+  "currency": "GEL",
+  "currency_symbol": "ლ",
+  "region": "Asia",
+  "subregion": "Western Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bc5"
+  },
+  "country_id": 82,
+  "name": "Germany",
+  "sortname": "DE",
+  "tele_code": "49",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Western Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bc6"
+  },
+  "country_id": 83,
+  "name": "Ghana",
+  "sortname": "GH",
+  "tele_code": "233",
+  "currency": "GHS",
+  "currency_symbol": "GH₵",
+  "region": "Africa",
+  "subregion": "Western Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bc7"
+  },
+  "country_id": 84,
+  "name": "Gibraltar",
+  "sortname": "GI",
+  "tele_code": "350",
+  "currency": "GIP",
+  "currency_symbol": "£",
+  "region": "Europe",
+  "subregion": "Southern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bc8"
+  },
+  "country_id": 85,
+  "name": "Greece",
+  "sortname": "GR",
+  "tele_code": "30",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Southern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bc9"
+  },
+  "country_id": 86,
+  "name": "Greenland",
+  "sortname": "GL",
+  "tele_code": "299",
+  "currency": "DKK",
+  "currency_symbol": "Kr.",
+  "region": "Americas",
+  "subregion": "Northern America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bca"
+  },
+  "country_id": 87,
+  "name": "Grenada",
+  "sortname": "GD",
+  "tele_code": "+1-473",
+  "currency": "XCD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bcb"
+  },
+  "country_id": 88,
+  "name": "Guadeloupe",
+  "sortname": "GP",
+  "tele_code": "590",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bcc"
+  },
+  "country_id": 89,
+  "name": "Guam",
+  "sortname": "GU",
+  "tele_code": "+1-671",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "region": "Oceania",
+  "subregion": "Micronesia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bcd"
+  },
+  "country_id": 90,
+  "name": "Guatemala",
+  "sortname": "GT",
+  "tele_code": "502",
+  "currency": "GTQ",
+  "currency_symbol": "Q",
+  "region": "Americas",
+  "subregion": "Central America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bce"
+  },
+  "country_id": 91,
+  "name": "Guernsey and Alderney",
+  "sortname": "GG",
+  "tele_code": "+44-1481",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "region": "Europe",
+  "subregion": "Northern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bcf"
+  },
+  "country_id": 92,
+  "name": "Guinea",
+  "sortname": "GN",
+  "tele_code": "224",
+  "currency": "GNF",
+  "currency_symbol": "FG",
+  "region": "Africa",
+  "subregion": "Western Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bd0"
+  },
+  "country_id": 93,
+  "name": "Guinea-Bissau",
+  "sortname": "GW",
+  "tele_code": "245",
+  "currency": "XOF",
+  "currency_symbol": "CFA",
+  "region": "Africa",
+  "subregion": "Western Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bd1"
+  },
+  "country_id": 94,
+  "name": "Guyana",
+  "sortname": "GY",
+  "tele_code": "592",
+  "currency": "GYD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "South America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bd2"
+  },
+  "country_id": 95,
+  "name": "Haiti",
+  "sortname": "HT",
+  "tele_code": "509",
+  "currency": "HTG",
+  "currency_symbol": "G",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bd3"
+  },
+  "country_id": 96,
+  "name": "Heard Island and McDonald Islands",
+  "sortname": "HM",
+  "tele_code": "672",
+  "currency": "AUD",
+  "currency_symbol": "$",
+  "region": "",
+  "subregion": ""
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bd4"
+  },
+  "country_id": 97,
+  "name": "Honduras",
+  "sortname": "HN",
+  "tele_code": "504",
+  "currency": "HNL",
+  "currency_symbol": "L",
+  "region": "Americas",
+  "subregion": "Central America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bd5"
+  },
+  "country_id": 98,
+  "name": "Hong Kong S.A.R.",
+  "sortname": "HK",
+  "tele_code": "852",
+  "currency": "HKD",
+  "currency_symbol": "$",
+  "region": "Asia",
+  "subregion": "Eastern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bd6"
+  },
+  "country_id": 99,
+  "name": "Hungary",
+  "sortname": "HU",
+  "tele_code": "36",
+  "currency": "HUF",
+  "currency_symbol": "Ft",
+  "region": "Europe",
+  "subregion": "Eastern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bd7"
+  },
+  "country_id": 100,
+  "name": "Iceland",
+  "sortname": "IS",
+  "tele_code": "354",
+  "currency": "ISK",
+  "currency_symbol": "kr",
+  "region": "Europe",
+  "subregion": "Northern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bd8"
+  },
+  "country_id": 101,
+  "name": "India",
+  "sortname": "IN",
+  "tele_code": "91",
+  "currency": "INR",
+  "currency_symbol": "₹",
+  "region": "Asia",
+  "subregion": "Southern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bd9"
+  },
+  "country_id": 102,
+  "name": "Indonesia",
+  "sortname": "ID",
+  "tele_code": "62",
+  "currency": "IDR",
+  "currency_symbol": "Rp",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bda"
+  },
+  "country_id": 103,
+  "name": "Iran",
+  "sortname": "IR",
+  "tele_code": "98",
+  "currency": "IRR",
+  "currency_symbol": "﷼",
+  "region": "Asia",
+  "subregion": "Southern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bdb"
+  },
+  "country_id": 104,
+  "name": "Iraq",
+  "sortname": "IQ",
+  "tele_code": "964",
+  "currency": "IQD",
+  "currency_symbol": "د.ع",
+  "region": "Asia",
+  "subregion": "Western Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bdc"
+  },
+  "country_id": 105,
+  "name": "Ireland",
+  "sortname": "IE",
+  "tele_code": "353",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Northern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bdd"
+  },
+  "country_id": 106,
+  "name": "Israel",
+  "sortname": "IL",
+  "tele_code": "972",
+  "currency": "ILS",
+  "currency_symbol": "₪",
+  "region": "Asia",
+  "subregion": "Western Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bde"
+  },
+  "country_id": 107,
+  "name": "Italy",
+  "sortname": "IT",
+  "tele_code": "39",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Southern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bdf"
+  },
+  "country_id": 108,
+  "name": "Jamaica",
+  "sortname": "JM",
+  "tele_code": "+1-876",
+  "currency": "JMD",
+  "currency_symbol": "J$",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000be0"
+  },
+  "country_id": 109,
+  "name": "Japan",
+  "sortname": "JP",
+  "tele_code": "81",
+  "currency": "JPY",
+  "currency_symbol": "¥",
+  "region": "Asia",
+  "subregion": "Eastern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000be1"
+  },
+  "country_id": 110,
+  "name": "Jersey",
+  "sortname": "JE",
+  "tele_code": "+44-1534",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "region": "Europe",
+  "subregion": "Northern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000be2"
+  },
+  "country_id": 111,
+  "name": "Jordan",
+  "sortname": "JO",
+  "tele_code": "962",
+  "currency": "JOD",
+  "currency_symbol": "ا.د",
+  "region": "Asia",
+  "subregion": "Western Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000be3"
+  },
+  "country_id": 112,
+  "name": "Kazakhstan",
+  "sortname": "KZ",
+  "tele_code": "7",
+  "currency": "KZT",
+  "currency_symbol": "лв",
+  "region": "Asia",
+  "subregion": "Central Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000be4"
+  },
+  "country_id": 113,
+  "name": "Kenya",
+  "sortname": "KE",
+  "tele_code": "254",
+  "currency": "KES",
+  "currency_symbol": "KSh",
+  "region": "Africa",
+  "subregion": "Eastern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000be5"
+  },
+  "country_id": 114,
+  "name": "Kiribati",
+  "sortname": "KI",
+  "tele_code": "686",
+  "currency": "AUD",
+  "currency_symbol": "$",
+  "region": "Oceania",
+  "subregion": "Micronesia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000be6"
+  },
+  "country_id": 248,
+  "name": "Kosovo",
+  "sortname": "XK",
+  "tele_code": "383",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Eastern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000be7"
+  },
+  "country_id": 117,
+  "name": "Kuwait",
+  "sortname": "KW",
+  "tele_code": "965",
+  "currency": "KWD",
+  "currency_symbol": "ك.د",
+  "region": "Asia",
+  "subregion": "Western Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000be8"
+  },
+  "country_id": 118,
+  "name": "Kyrgyzstan",
+  "sortname": "KG",
+  "tele_code": "996",
+  "currency": "KGS",
+  "currency_symbol": "лв",
+  "region": "Asia",
+  "subregion": "Central Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000be9"
+  },
+  "country_id": 119,
+  "name": "Laos",
+  "sortname": "LA",
+  "tele_code": "856",
+  "currency": "LAK",
+  "currency_symbol": "₭",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bea"
+  },
+  "country_id": 120,
+  "name": "Latvia",
+  "sortname": "LV",
+  "tele_code": "371",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Northern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000beb"
+  },
+  "country_id": 121,
+  "name": "Lebanon",
+  "sortname": "LB",
+  "tele_code": "961",
+  "currency": "LBP",
+  "currency_symbol": "£",
+  "region": "Asia",
+  "subregion": "Western Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bec"
+  },
+  "country_id": 122,
+  "name": "Lesotho",
+  "sortname": "LS",
+  "tele_code": "266",
+  "currency": "LSL",
+  "currency_symbol": "L",
+  "region": "Africa",
+  "subregion": "Southern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bed"
+  },
+  "country_id": 123,
+  "name": "Liberia",
+  "sortname": "LR",
+  "tele_code": "231",
+  "currency": "LRD",
+  "currency_symbol": "$",
+  "region": "Africa",
+  "subregion": "Western Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bee"
+  },
+  "country_id": 124,
+  "name": "Libya",
+  "sortname": "LY",
+  "tele_code": "218",
+  "currency": "LYD",
+  "currency_symbol": "د.ل",
+  "region": "Africa",
+  "subregion": "Northern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bef"
+  },
+  "country_id": 125,
+  "name": "Liechtenstein",
+  "sortname": "LI",
+  "tele_code": "423",
+  "currency": "CHF",
+  "currency_symbol": "CHf",
+  "region": "Europe",
+  "subregion": "Western Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bf0"
+  },
+  "country_id": 126,
+  "name": "Lithuania",
+  "sortname": "LT",
+  "tele_code": "370",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Northern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bf1"
+  },
+  "country_id": 127,
+  "name": "Luxembourg",
+  "sortname": "LU",
+  "tele_code": "352",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Western Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bf2"
+  },
+  "country_id": 128,
+  "name": "Macau S.A.R.",
+  "sortname": "MO",
+  "tele_code": "853",
+  "currency": "MOP",
+  "currency_symbol": "$",
+  "region": "Asia",
+  "subregion": "Eastern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bf3"
+  },
+  "country_id": 129,
+  "name": "Macedonia",
+  "sortname": "MK",
+  "tele_code": "389",
+  "currency": "MKD",
+  "currency_symbol": "ден",
+  "region": "Europe",
+  "subregion": "Southern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bf4"
+  },
+  "country_id": 130,
+  "name": "Madagascar",
+  "sortname": "MG",
+  "tele_code": "261",
+  "currency": "MGA",
+  "currency_symbol": "Ar",
+  "region": "Africa",
+  "subregion": "Eastern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bf5"
+  },
+  "country_id": 131,
+  "name": "Malawi",
+  "sortname": "MW",
+  "tele_code": "265",
+  "currency": "MWK",
+  "currency_symbol": "MK",
+  "region": "Africa",
+  "subregion": "Eastern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bf6"
+  },
+  "country_id": 132,
+  "name": "Malaysia",
+  "sortname": "MY",
+  "tele_code": "60",
+  "currency": "MYR",
+  "currency_symbol": "RM",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bf7"
+  },
+  "country_id": 133,
+  "name": "Maldives",
+  "sortname": "MV",
+  "tele_code": "960",
+  "currency": "MVR",
+  "currency_symbol": "Rf",
+  "region": "Asia",
+  "subregion": "Southern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bf8"
+  },
+  "country_id": 134,
+  "name": "Mali",
+  "sortname": "ML",
+  "tele_code": "223",
+  "currency": "XOF",
+  "currency_symbol": "CFA",
+  "region": "Africa",
+  "subregion": "Western Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bf9"
+  },
+  "country_id": 135,
+  "name": "Malta",
+  "sortname": "MT",
+  "tele_code": "356",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Southern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bfa"
+  },
+  "country_id": 136,
+  "name": "Man (Isle of)",
+  "sortname": "IM",
+  "tele_code": "+44-1624",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "region": "Europe",
+  "subregion": "Northern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bfb"
+  },
+  "country_id": 137,
+  "name": "Marshall Islands",
+  "sortname": "MH",
+  "tele_code": "692",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "region": "Oceania",
+  "subregion": "Micronesia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bfc"
+  },
+  "country_id": 138,
+  "name": "Martinique",
+  "sortname": "MQ",
+  "tele_code": "596",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bfd"
+  },
+  "country_id": 139,
+  "name": "Mauritania",
+  "sortname": "MR",
+  "tele_code": "222",
+  "currency": "MRO",
+  "currency_symbol": "MRU",
+  "region": "Africa",
+  "subregion": "Western Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bfe"
+  },
+  "country_id": 140,
+  "name": "Mauritius",
+  "sortname": "MU",
+  "tele_code": "230",
+  "currency": "MUR",
+  "currency_symbol": "₨",
+  "region": "Africa",
+  "subregion": "Eastern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000bff"
+  },
+  "country_id": 141,
+  "name": "Mayotte",
+  "sortname": "YT",
+  "tele_code": "262",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Africa",
+  "subregion": "Eastern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c00"
+  },
+  "country_id": 142,
+  "name": "Mexico",
+  "sortname": "MX",
+  "tele_code": "52",
+  "currency": "MXN",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Central America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c01"
+  },
+  "country_id": 143,
+  "name": "Micronesia",
+  "sortname": "FM",
+  "tele_code": "691",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "region": "Oceania",
+  "subregion": "Micronesia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c02"
+  },
+  "country_id": 144,
+  "name": "Moldova",
+  "sortname": "MD",
+  "tele_code": "373",
+  "currency": "MDL",
+  "currency_symbol": "L",
+  "region": "Europe",
+  "subregion": "Eastern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c03"
+  },
+  "country_id": 145,
+  "name": "Monaco",
+  "sortname": "MC",
+  "tele_code": "377",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Western Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c04"
+  },
+  "country_id": 146,
+  "name": "Mongolia",
+  "sortname": "MN",
+  "tele_code": "976",
+  "currency": "MNT",
+  "currency_symbol": "₮",
+  "region": "Asia",
+  "subregion": "Eastern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c05"
+  },
+  "country_id": 147,
+  "name": "Montenegro",
+  "sortname": "ME",
+  "tele_code": "382",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Southern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c06"
+  },
+  "country_id": 148,
+  "name": "Montserrat",
+  "sortname": "MS",
+  "tele_code": "+1-664",
+  "currency": "XCD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c07"
+  },
+  "country_id": 149,
+  "name": "Morocco",
+  "sortname": "MA",
+  "tele_code": "212",
+  "currency": "MAD",
+  "currency_symbol": "DH",
+  "region": "Africa",
+  "subregion": "Northern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c08"
+  },
+  "country_id": 150,
+  "name": "Mozambique",
+  "sortname": "MZ",
+  "tele_code": "258",
+  "currency": "MZN",
+  "currency_symbol": "MT",
+  "region": "Africa",
+  "subregion": "Eastern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c09"
+  },
+  "country_id": 151,
+  "name": "Myanmar",
+  "sortname": "MM",
+  "tele_code": "95",
+  "currency": "MMK",
+  "currency_symbol": "K",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c0a"
+  },
+  "country_id": 152,
+  "name": "Namibia",
+  "sortname": "NA",
+  "tele_code": "264",
+  "currency": "NAD",
+  "currency_symbol": "$",
+  "region": "Africa",
+  "subregion": "Southern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c0b"
+  },
+  "country_id": 153,
+  "name": "Nauru",
+  "sortname": "NR",
+  "tele_code": "674",
+  "currency": "AUD",
+  "currency_symbol": "$",
+  "region": "Oceania",
+  "subregion": "Micronesia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c0c"
+  },
+  "country_id": 154,
+  "name": "Nepal",
+  "sortname": "NP",
+  "tele_code": "977",
+  "currency": "NPR",
+  "currency_symbol": "₨",
+  "region": "Asia",
+  "subregion": "Southern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c0d"
+  },
+  "country_id": 156,
+  "name": "Netherlands",
+  "sortname": "NL",
+  "tele_code": "31",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Western Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c0e"
+  },
+  "country_id": 157,
+  "name": "New Caledonia",
+  "sortname": "NC",
+  "tele_code": "687",
+  "currency": "XPF",
+  "currency_symbol": "₣",
+  "region": "Oceania",
+  "subregion": "Melanesia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c0f"
+  },
+  "country_id": 158,
+  "name": "New Zealand",
+  "sortname": "NZ",
+  "tele_code": "64",
+  "currency": "NZD",
+  "currency_symbol": "$",
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c10"
+  },
+  "country_id": 159,
+  "name": "Nicaragua",
+  "sortname": "NI",
+  "tele_code": "505",
+  "currency": "NIO",
+  "currency_symbol": "C$",
+  "region": "Americas",
+  "subregion": "Central America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c11"
+  },
+  "country_id": 160,
+  "name": "Niger",
+  "sortname": "NE",
+  "tele_code": "227",
+  "currency": "XOF",
+  "currency_symbol": "CFA",
+  "region": "Africa",
+  "subregion": "Western Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c12"
+  },
+  "country_id": 161,
+  "name": "Nigeria",
+  "sortname": "NG",
+  "tele_code": "234",
+  "currency": "NGN",
+  "currency_symbol": "₦",
+  "region": "Africa",
+  "subregion": "Western Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c13"
+  },
+  "country_id": 162,
+  "name": "Niue",
+  "sortname": "NU",
+  "tele_code": "683",
+  "currency": "NZD",
+  "currency_symbol": "$",
+  "region": "Oceania",
+  "subregion": "Polynesia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c14"
+  },
+  "country_id": 163,
+  "name": "Norfolk Island",
+  "sortname": "NF",
+  "tele_code": "672",
+  "currency": "AUD",
+  "currency_symbol": "$",
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c15"
+  },
+  "country_id": 115,
+  "name": "North Korea",
+  "sortname": "KP",
+  "tele_code": "850",
+  "currency": "KPW",
+  "currency_symbol": "₩",
+  "region": "Asia",
+  "subregion": "Eastern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c16"
+  },
+  "country_id": 164,
+  "name": "Northern Mariana Islands",
+  "sortname": "MP",
+  "tele_code": "+1-670",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "region": "Oceania",
+  "subregion": "Micronesia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c17"
+  },
+  "country_id": 165,
+  "name": "Norway",
+  "sortname": "NO",
+  "tele_code": "47",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "region": "Europe",
+  "subregion": "Northern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c18"
+  },
+  "country_id": 166,
+  "name": "Oman",
+  "sortname": "OM",
+  "tele_code": "968",
+  "currency": "OMR",
+  "currency_symbol": ".ع.ر",
+  "region": "Asia",
+  "subregion": "Western Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c19"
+  },
+  "country_id": 167,
+  "name": "Pakistan",
+  "sortname": "PK",
+  "tele_code": "92",
+  "currency": "PKR",
+  "currency_symbol": "₨",
+  "region": "Asia",
+  "subregion": "Southern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c1a"
+  },
+  "country_id": 168,
+  "name": "Palau",
+  "sortname": "PW",
+  "tele_code": "680",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "region": "Oceania",
+  "subregion": "Micronesia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c1b"
+  },
+  "country_id": 169,
+  "name": "Palestinian Territory Occupied",
+  "sortname": "PS",
+  "tele_code": "970",
+  "currency": "ILS",
+  "currency_symbol": "₪",
+  "region": "Asia",
+  "subregion": "Western Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c1c"
+  },
+  "country_id": 170,
+  "name": "Panama",
+  "sortname": "PA",
+  "tele_code": "507",
+  "currency": "PAB",
+  "currency_symbol": "B/.",
+  "region": "Americas",
+  "subregion": "Central America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c1d"
+  },
+  "country_id": 171,
+  "name": "Papua new Guinea",
+  "sortname": "PG",
+  "tele_code": "675",
+  "currency": "PGK",
+  "currency_symbol": "K",
+  "region": "Oceania",
+  "subregion": "Melanesia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c1e"
+  },
+  "country_id": 172,
+  "name": "Paraguay",
+  "sortname": "PY",
+  "tele_code": "595",
+  "currency": "PYG",
+  "currency_symbol": "₲",
+  "region": "Americas",
+  "subregion": "South America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c1f"
+  },
+  "country_id": 173,
+  "name": "Peru",
+  "sortname": "PE",
+  "tele_code": "51",
+  "currency": "PEN",
+  "currency_symbol": "S/.",
+  "region": "Americas",
+  "subregion": "South America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c20"
+  },
+  "country_id": 174,
+  "name": "Philippines",
+  "sortname": "PH",
+  "tele_code": "63",
+  "currency": "PHP",
+  "currency_symbol": "₱",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c21"
+  },
+  "country_id": 175,
+  "name": "Pitcairn Island",
+  "sortname": "PN",
+  "tele_code": "870",
+  "currency": "NZD",
+  "currency_symbol": "$",
+  "region": "Oceania",
+  "subregion": "Polynesia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c22"
+  },
+  "country_id": 176,
+  "name": "Poland",
+  "sortname": "PL",
+  "tele_code": "48",
+  "currency": "PLN",
+  "currency_symbol": "zł",
+  "region": "Europe",
+  "subregion": "Eastern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c23"
+  },
+  "country_id": 177,
+  "name": "Portugal",
+  "sortname": "PT",
+  "tele_code": "351",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Southern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c24"
+  },
+  "country_id": 178,
+  "name": "Puerto Rico",
+  "sortname": "PR",
+  "tele_code": "+1-787 and 1-939",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c25"
+  },
+  "country_id": 179,
+  "name": "Qatar",
+  "sortname": "QA",
+  "tele_code": "974",
+  "currency": "QAR",
+  "currency_symbol": "ق.ر",
+  "region": "Asia",
+  "subregion": "Western Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c26"
+  },
+  "country_id": 180,
+  "name": "Reunion",
+  "sortname": "RE",
+  "tele_code": "262",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Africa",
+  "subregion": "Eastern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c27"
+  },
+  "country_id": 181,
+  "name": "Romania",
+  "sortname": "RO",
+  "tele_code": "40",
+  "currency": "RON",
+  "currency_symbol": "lei",
+  "region": "Europe",
+  "subregion": "Eastern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c28"
+  },
+  "country_id": 182,
+  "name": "Russia",
+  "sortname": "RU",
+  "tele_code": "7",
+  "currency": "RUB",
+  "currency_symbol": "₽",
+  "region": "Europe",
+  "subregion": "Eastern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c29"
+  },
+  "country_id": 183,
+  "name": "Rwanda",
+  "sortname": "RW",
+  "tele_code": "250",
+  "currency": "RWF",
+  "currency_symbol": "FRw",
+  "region": "Africa",
+  "subregion": "Eastern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c2a"
+  },
+  "country_id": 184,
+  "name": "Saint Helena",
+  "sortname": "SH",
+  "tele_code": "290",
+  "currency": "SHP",
+  "currency_symbol": "£",
+  "region": "Africa",
+  "subregion": "Western Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c2b"
+  },
+  "country_id": 185,
+  "name": "Saint Kitts And Nevis",
+  "sortname": "KN",
+  "tele_code": "+1-869",
+  "currency": "XCD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c2c"
+  },
+  "country_id": 186,
+  "name": "Saint Lucia",
+  "sortname": "LC",
+  "tele_code": "+1-758",
+  "currency": "XCD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c2d"
+  },
+  "country_id": 187,
+  "name": "Saint Pierre and Miquelon",
+  "sortname": "PM",
+  "tele_code": "508",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Americas",
+  "subregion": "Northern America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c2e"
+  },
+  "country_id": 188,
+  "name": "Saint Vincent And The Grenadines",
+  "sortname": "VC",
+  "tele_code": "+1-784",
+  "currency": "XCD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c2f"
+  },
+  "country_id": 189,
+  "name": "Saint-Barthelemy",
+  "sortname": "BL",
+  "tele_code": "590",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c30"
+  },
+  "country_id": 190,
+  "name": "Saint-Martin (French part)",
+  "sortname": "MF",
+  "tele_code": "590",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c31"
+  },
+  "country_id": 191,
+  "name": "Samoa",
+  "sortname": "WS",
+  "tele_code": "685",
+  "currency": "WST",
+  "currency_symbol": "SAT",
+  "region": "Oceania",
+  "subregion": "Polynesia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c32"
+  },
+  "country_id": 192,
+  "name": "San Marino",
+  "sortname": "SM",
+  "tele_code": "378",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Southern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c33"
+  },
+  "country_id": 193,
+  "name": "Sao Tome and Principe",
+  "sortname": "ST",
+  "tele_code": "239",
+  "currency": "STD",
+  "currency_symbol": "Db",
+  "region": "Africa",
+  "subregion": "Middle Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c34"
+  },
+  "country_id": 194,
+  "name": "Saudi Arabia",
+  "sortname": "SA",
+  "tele_code": "966",
+  "currency": "SAR",
+  "currency_symbol": "﷼",
+  "region": "Asia",
+  "subregion": "Western Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c35"
+  },
+  "country_id": 195,
+  "name": "Senegal",
+  "sortname": "SN",
+  "tele_code": "221",
+  "currency": "XOF",
+  "currency_symbol": "CFA",
+  "region": "Africa",
+  "subregion": "Western Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c36"
+  },
+  "country_id": 196,
+  "name": "Serbia",
+  "sortname": "RS",
+  "tele_code": "381",
+  "currency": "RSD",
+  "currency_symbol": "din",
+  "region": "Europe",
+  "subregion": "Southern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c37"
+  },
+  "country_id": 197,
+  "name": "Seychelles",
+  "sortname": "SC",
+  "tele_code": "248",
+  "currency": "SCR",
+  "currency_symbol": "SRe",
+  "region": "Africa",
+  "subregion": "Eastern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c38"
+  },
+  "country_id": 198,
+  "name": "Sierra Leone",
+  "sortname": "SL",
+  "tele_code": "232",
+  "currency": "SLL",
+  "currency_symbol": "Le",
+  "region": "Africa",
+  "subregion": "Western Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c39"
+  },
+  "country_id": 199,
+  "name": "Singapore",
+  "sortname": "SG",
+  "tele_code": "65",
+  "currency": "SGD",
+  "currency_symbol": "$",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c3a"
+  },
+  "country_id": 250,
+  "name": "Sint Maarten (Dutch part)",
+  "sortname": "SX",
+  "tele_code": "1721",
+  "currency": "ANG",
+  "currency_symbol": "ƒ",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c3b"
+  },
+  "country_id": 200,
+  "name": "Slovakia",
+  "sortname": "SK",
+  "tele_code": "421",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Eastern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c3c"
+  },
+  "country_id": 201,
+  "name": "Slovenia",
+  "sortname": "SI",
+  "tele_code": "386",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Southern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c3d"
+  },
+  "country_id": 202,
+  "name": "Solomon Islands",
+  "sortname": "SB",
+  "tele_code": "677",
+  "currency": "SBD",
+  "currency_symbol": "Si$",
+  "region": "Oceania",
+  "subregion": "Melanesia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c3e"
+  },
+  "country_id": 203,
+  "name": "Somalia",
+  "sortname": "SO",
+  "tele_code": "252",
+  "currency": "SOS",
+  "currency_symbol": "Sh.so.",
+  "region": "Africa",
+  "subregion": "Eastern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c3f"
+  },
+  "country_id": 204,
+  "name": "South Africa",
+  "sortname": "ZA",
+  "tele_code": "27",
+  "currency": "ZAR",
+  "currency_symbol": "R",
+  "region": "Africa",
+  "subregion": "Southern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c40"
+  },
+  "country_id": 205,
+  "name": "South Georgia",
+  "sortname": "GS",
+  "tele_code": "500",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "region": "Americas",
+  "subregion": "South America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c41"
+  },
+  "country_id": 116,
+  "name": "South Korea",
+  "sortname": "KR",
+  "tele_code": "82",
+  "currency": "KRW",
+  "currency_symbol": "₩",
+  "region": "Asia",
+  "subregion": "Eastern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c42"
+  },
+  "country_id": 206,
+  "name": "South Sudan",
+  "sortname": "SS",
+  "tele_code": "211",
+  "currency": "SSP",
+  "currency_symbol": "£",
+  "region": "Africa",
+  "subregion": "Middle Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c43"
+  },
+  "country_id": 207,
+  "name": "Spain",
+  "sortname": "ES",
+  "tele_code": "34",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Southern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c44"
+  },
+  "country_id": 208,
+  "name": "Sri Lanka",
+  "sortname": "LK",
+  "tele_code": "94",
+  "currency": "LKR",
+  "currency_symbol": "Rs",
+  "region": "Asia",
+  "subregion": "Southern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c45"
+  },
+  "country_id": 209,
+  "name": "Sudan",
+  "sortname": "SD",
+  "tele_code": "249",
+  "currency": "SDG",
+  "currency_symbol": ".س.ج",
+  "region": "Africa",
+  "subregion": "Northern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c46"
+  },
+  "country_id": 210,
+  "name": "Suriname",
+  "sortname": "SR",
+  "tele_code": "597",
+  "currency": "SRD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "South America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c47"
+  },
+  "country_id": 211,
+  "name": "Svalbard And Jan Mayen Islands",
+  "sortname": "SJ",
+  "tele_code": "47",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "region": "Europe",
+  "subregion": "Northern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c48"
+  },
+  "country_id": 212,
+  "name": "Swaziland",
+  "sortname": "SZ",
+  "tele_code": "268",
+  "currency": "SZL",
+  "currency_symbol": "E",
+  "region": "Africa",
+  "subregion": "Southern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c49"
+  },
+  "country_id": 213,
+  "name": "Sweden",
+  "sortname": "SE",
+  "tele_code": "46",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "region": "Europe",
+  "subregion": "Northern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c4a"
+  },
+  "country_id": 214,
+  "name": "Switzerland",
+  "sortname": "CH",
+  "tele_code": "41",
+  "currency": "CHF",
+  "currency_symbol": "CHf",
+  "region": "Europe",
+  "subregion": "Western Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c4b"
+  },
+  "country_id": 215,
+  "name": "Syria",
+  "sortname": "SY",
+  "tele_code": "963",
+  "currency": "SYP",
+  "currency_symbol": "LS",
+  "region": "Asia",
+  "subregion": "Western Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c4c"
+  },
+  "country_id": 216,
+  "name": "Taiwan",
+  "sortname": "TW",
+  "tele_code": "886",
+  "currency": "TWD",
+  "currency_symbol": "$",
+  "region": "Asia",
+  "subregion": "Eastern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c4d"
+  },
+  "country_id": 217,
+  "name": "Tajikistan",
+  "sortname": "TJ",
+  "tele_code": "992",
+  "currency": "TJS",
+  "currency_symbol": "SM",
+  "region": "Asia",
+  "subregion": "Central Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c4e"
+  },
+  "country_id": 218,
+  "name": "Tanzania",
+  "sortname": "TZ",
+  "tele_code": "255",
+  "currency": "TZS",
+  "currency_symbol": "TSh",
+  "region": "Africa",
+  "subregion": "Eastern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c4f"
+  },
+  "country_id": 219,
+  "name": "Thailand",
+  "sortname": "TH",
+  "tele_code": "66",
+  "currency": "THB",
+  "currency_symbol": "฿",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c50"
+  },
+  "country_id": 220,
+  "name": "Togo",
+  "sortname": "TG",
+  "tele_code": "228",
+  "currency": "XOF",
+  "currency_symbol": "CFA",
+  "region": "Africa",
+  "subregion": "Western Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c51"
+  },
+  "country_id": 221,
+  "name": "Tokelau",
+  "sortname": "TK",
+  "tele_code": "690",
+  "currency": "NZD",
+  "currency_symbol": "$",
+  "region": "Oceania",
+  "subregion": "Polynesia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c52"
+  },
+  "country_id": 222,
+  "name": "Tonga",
+  "sortname": "TO",
+  "tele_code": "676",
+  "currency": "TOP",
+  "currency_symbol": "$",
+  "region": "Oceania",
+  "subregion": "Polynesia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c53"
+  },
+  "country_id": 223,
+  "name": "Trinidad And Tobago",
+  "sortname": "TT",
+  "tele_code": "+1-868",
+  "currency": "TTD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c54"
+  },
+  "country_id": 224,
+  "name": "Tunisia",
+  "sortname": "TN",
+  "tele_code": "216",
+  "currency": "TND",
+  "currency_symbol": "ت.د",
+  "region": "Africa",
+  "subregion": "Northern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c55"
+  },
+  "country_id": 225,
+  "name": "Turkey",
+  "sortname": "TR",
+  "tele_code": "90",
+  "currency": "TRY",
+  "currency_symbol": "₺",
+  "region": "Asia",
+  "subregion": "Western Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c56"
+  },
+  "country_id": 226,
+  "name": "Turkmenistan",
+  "sortname": "TM",
+  "tele_code": "993",
+  "currency": "TMT",
+  "currency_symbol": "T",
+  "region": "Asia",
+  "subregion": "Central Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c57"
+  },
+  "country_id": 227,
+  "name": "Turks And Caicos Islands",
+  "sortname": "TC",
+  "tele_code": "+1-649",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c58"
+  },
+  "country_id": 228,
+  "name": "Tuvalu",
+  "sortname": "TV",
+  "tele_code": "688",
+  "currency": "AUD",
+  "currency_symbol": "$",
+  "region": "Oceania",
+  "subregion": "Polynesia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c59"
+  },
+  "country_id": 229,
+  "name": "Uganda",
+  "sortname": "UG",
+  "tele_code": "256",
+  "currency": "UGX",
+  "currency_symbol": "USh",
+  "region": "Africa",
+  "subregion": "Eastern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c5a"
+  },
+  "country_id": 230,
+  "name": "Ukraine",
+  "sortname": "UA",
+  "tele_code": "380",
+  "currency": "UAH",
+  "currency_symbol": "₴",
+  "region": "Europe",
+  "subregion": "Eastern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c5b"
+  },
+  "country_id": 231,
+  "name": "United Arab Emirates",
+  "sortname": "AE",
+  "tele_code": "971",
+  "currency": "AED",
+  "currency_symbol": "إ.د",
+  "region": "Asia",
+  "subregion": "Western Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c5c"
+  },
+  "country_id": 232,
+  "name": "United Kingdom",
+  "sortname": "GB",
+  "tele_code": "44",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "region": "Europe",
+  "subregion": "Northern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c5d"
+  },
+  "country_id": 233,
+  "name": "United States",
+  "sortname": "US",
+  "tele_code": "1",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Northern America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c5e"
+  },
+  "country_id": 234,
+  "name": "United States Minor Outlying Islands",
+  "sortname": "UM",
+  "tele_code": "1",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Northern America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c5f"
+  },
+  "country_id": 235,
+  "name": "Uruguay",
+  "sortname": "UY",
+  "tele_code": "598",
+  "currency": "UYU",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "South America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c60"
+  },
+  "country_id": 236,
+  "name": "Uzbekistan",
+  "sortname": "UZ",
+  "tele_code": "998",
+  "currency": "UZS",
+  "currency_symbol": "лв",
+  "region": "Asia",
+  "subregion": "Central Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c61"
+  },
+  "country_id": 237,
+  "name": "Vanuatu",
+  "sortname": "VU",
+  "tele_code": "678",
+  "currency": "VUV",
+  "currency_symbol": "VT",
+  "region": "Oceania",
+  "subregion": "Melanesia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c62"
+  },
+  "country_id": 238,
+  "name": "Vatican City State (Holy See)",
+  "sortname": "VA",
+  "tele_code": "379",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "region": "Europe",
+  "subregion": "Southern Europe"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c63"
+  },
+  "country_id": 239,
+  "name": "Venezuela",
+  "sortname": "VE",
+  "tele_code": "58",
+  "currency": "VEF",
+  "currency_symbol": "Bs",
+  "region": "Americas",
+  "subregion": "South America"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c64"
+  },
+  "country_id": 240,
+  "name": "Vietnam",
+  "sortname": "VN",
+  "tele_code": "84",
+  "currency": "VND",
+  "currency_symbol": "₫",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c65"
+  },
+  "country_id": 241,
+  "name": "Virgin Islands (British)",
+  "sortname": "VG",
+  "tele_code": "+1-284",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c66"
+  },
+  "country_id": 242,
+  "name": "Virgin Islands (US)",
+  "sortname": "VI",
+  "tele_code": "+1-340",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "region": "Americas",
+  "subregion": "Caribbean"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c67"
+  },
+  "country_id": 243,
+  "name": "Wallis And Futuna Islands",
+  "sortname": "WF",
+  "tele_code": "681",
+  "currency": "XPF",
+  "currency_symbol": "₣",
+  "region": "Oceania",
+  "subregion": "Polynesia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c68"
+  },
+  "country_id": 244,
+  "name": "Western Sahara",
+  "sortname": "EH",
+  "tele_code": "212",
+  "currency": "MAD",
+  "currency_symbol": "MAD",
+  "region": "Africa",
+  "subregion": "Northern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c69"
+  },
+  "country_id": 245,
+  "name": "Yemen",
+  "sortname": "YE",
+  "tele_code": "967",
+  "currency": "YER",
+  "currency_symbol": "﷼",
+  "region": "Asia",
+  "subregion": "Western Asia"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c6a"
+  },
+  "country_id": 246,
+  "name": "Zambia",
+  "sortname": "ZM",
+  "tele_code": "260",
+  "currency": "ZMW",
+  "currency_symbol": "ZK",
+  "region": "Africa",
+  "subregion": "Eastern Africa"
+},{
+  "_id": {
+    "$oid": "612f99c76151000049000c6b"
+  },
+  "country_id": 247,
+  "name": "Zimbabwe",
+  "sortname": "ZW",
+  "tele_code": "263",
+  "currency": "ZWL",
+  "currency_symbol": "$",
+  "region": "Africa",
+  "subregion": "Eastern Africa"
+}]

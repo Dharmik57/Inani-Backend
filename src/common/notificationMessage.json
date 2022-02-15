@@ -1,0 +1,14 @@
+{
+    "title": "You have sold an item “{{productTitle}}”",
+    "userTitle": "Your order for {{productTitle}} is complete.",
+    "orderAccept": "Your order has been accepted by seller.",
+    "orderDecline": "Your order has been declined by seller.",
+    "makeOfferTitle": "{{userName}} wants to buy your item “{{productTitle}}” for ${{price}}.",
+    "acceptOfferTitle": "Congratulations! Your offer for ${{price}} to purchase {{productTitle}} has been accepted by the seller.",
+    "declineOfferTitle": "Hi!, unfortunately your offer for ${{price}} to purchase {{productTitle}} has been rejected by the seller. ",
+    "paymentReleaseTitle": "Your payment has been released by Inani Hub.",
+    "userDescription": "The seller has been notified to ship the item and you should get a tracking number as soon as the item ships.",
+    "makeOfferDescription": "You can either accept or reject this offer and we’d be sure to let the buyer know.",
+    "declinedDescription": "Consider increasing your offer or purchase the item at the seller’s price.",
+    "sellerOrderDescription": "Review the product sold and confirm it is still in stock and available to be shipped."
+}
